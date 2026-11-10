@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.0",
+  "url": "https://github.com/rotundorafael/kokicast-releases/releases/download/v2/kokicast-2.apk",
+  "md5": "f86e48fe2be16657138dbfb6b91dd648",
+  "notes": "Primera versión con botón Actualizar app, sonido en enlaces y menos consultas a Supabase",
+  "publishedAt": "2026-11-10T09:03:05.418Z"
+}
