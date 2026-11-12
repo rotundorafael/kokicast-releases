@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.0.0",
-  "url": "https://github.com/rotundorafael/kokicast-releases/releases/download/v2/kokicast-2.apk",
-  "md5": "f86e48fe2be16657138dbfb6b91dd648",
-  "notes": "Primera versión con botón Actualizar app, sonido en enlaces y menos consultas a Supabase",
-  "publishedAt": "2026-11-10T09:03:05.418Z"
+  "url": "https://github.com/rotundorafael/kokicast-releases/releases/download/v3/kokicast-3.apk",
+  "md5": "f3d46f3e428c0334211f4076e59445b1",
+  "notes": "Versión 3: menos consultas a Supabase (señal cada 3 min, revisión cada 2 min)",
+  "publishedAt": "2026-11-12T13:06:26.328Z"
 }
